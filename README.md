@@ -42,6 +42,21 @@ The project uses five datasets:
 * Average Shipping Cost
 * Total Shipping Cost
 
+---
+## 📸 Project Screenshots
+
+### Logistics KPI Summary
+![Logistics KPI Summary]<img width="1920" height="1200" alt="Screenshot 2026-08-28 192340" src="https://github.com/user-attachments/assets/9e0d7295-f45e-405f-bdf1-3b7e37724832" />
+
+
+### Shipping Cost Distribution
+![Order Status Distribution]<img width="1920" height="1200" alt="Screenshot 2026-08-28 182140" src="https://github.com/user-attachments/assets/8101a682-dfc7-44e2-ba81-267ce5f56b25" />
+
+
+### Shipping Cost Distribution
+![Shipping Cost Distribution]<img width="1920" height="1200" alt="Screenshot 2026-08-28 192340" src="https://github.com/user-attachments/assets/35a26928-2234-45a4-a2e1-6ee569b57e6a" />
+
+
 ## 📈 Analysis Performed
 
 The project includes:
