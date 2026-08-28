@@ -75,8 +75,7 @@ The project includes:
 
 The analysis helps understand **delivery efficiency, shipping costs, customer demand, and order patterns**, providing a foundation for improving logistics operations and resource allocation.
 
-## 👨‍💻 Author
-
 **Akshay Pal**
-##LinkdIn:https://www.linkedin.com/in/akshay-pal-60115b286/
+---
+```##LinkdIn:https://www.linkedin.com/in/akshay-pal-60115b286/
 
